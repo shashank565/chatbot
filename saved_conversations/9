@@ -1,0 +1,23 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hii
+bot : - Hello. How are you feeling today?
+user : hello
+bot : - Hi. How are you feeling today?
+user : what is your name
+bot : - I was created in February 2019.
+user : what is your namer?
+bot : - You can contact the helpline at +91 9999 11111
+user : how are you?
+bot : - - Hi, How is it going?
+user : very good
+bot : - You should take a sudafed tablet after your meal.
+user : i dont need any tablet
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : fever
+bot : - good to know. how may i assist you then?
+user : symptoms
+bot : - - thanks
+user : bring hot eater
+bot : - Automated healthcare team created me.
+user : mild cough
+bot : - You should take a spoon full of benadryl after your meal.
